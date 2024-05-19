@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @shadow5og. Preferred name is Nkululeko.
-- 👀 I’m interested in Web Development, Data Science, Flutter, Automation, building sick APIs, etc.
-- 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate on Javascript and Python projects at the moment.
+- 👋 Hi, I’m @shadow5og. My preferred name is Nkululeko.
+- 🌱 I build stuff.
 - 📫 How to reach me: nkuliguy@protonmail.com.
 
 <!---
